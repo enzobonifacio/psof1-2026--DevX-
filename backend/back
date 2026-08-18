@@ -1,0 +1,25 @@
+/leilaoCadastrar
+//REQ01: O sistema deve permitir que usuários autenticados realizem lances nos leilões disponíveis para arrebatar o galo
+
+/leilaoApagar
+// Deve ser possivel excluir leiloes e retirar leiloes de sua visualizcao
+
+    / LeilaoEditar
+    // Todos os funcionarios devem conseguir editar os leiloes
+
+/leilaoVisualizar
+// O sistema deve permitir acessar e visualizar todos os leiloes disponiveis no momento
+
+/identidadeCadastrar
+// O sistema deverá permitir cadastrar usuários
+//REQ02: Menores de 18 anos não podem concluir o cadastro O sistema deve permitir que o usuário faça login utilizando e-mail e senha.
+
+    / identidadeEditar
+// sempre é possivel alterar dados do usuario e adicionar novas contas
+
+    / identidadeVisualizar
+// O usuario sempre pode ver os seus proprios dados e configurações
+
+    / ientidadeApagar
+// O usuario sempre pode excluir informações e apagar sua conta
+
